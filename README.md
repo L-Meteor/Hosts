@@ -1,3 +1,5 @@
+### http://www.360kb.com/kb/2_122.html
+#####Fuck Google
  感谢互联网为所有人提供开放自由的服务，祝愿祖国繁荣富强人民安居乐业...
 
 google hosts 2014.11.18 更新，本文只提供google相关服务的hosts，目前有效，失效后会及时更新。
