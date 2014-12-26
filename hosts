@@ -1,14 +1,14 @@
- æ„Ÿè°¢äº’è”ç½‘ä¸ºæ‰€æœ‰äººæä¾›å¼€æ”¾è‡ªç”±çš„æœåŠ¡ï¼Œç¥æ„¿ç¥–å›½ç¹è£å¯Œå¼ºäººæ°‘å®‰å±…ä¹ä¸š...
+ ¸ĞĞ»»¥ÁªÍøÎªËùÓĞÈËÌá¹©¿ª·Å×ÔÓÉµÄ·şÎñ£¬×£Ô¸×æ¹ú·±ÈÙ¸»Ç¿ÈËÃñ°²¾ÓÀÖÒµ...
 
-google hosts 2014.12.16 æ›´æ–°ï¼Œæœ¬æ–‡åªæä¾›googleç›¸å…³æœåŠ¡çš„hostsï¼Œç›®å‰æœ‰æ•ˆï¼Œå¤±æ•ˆåä¼šåŠæ—¶æ›´æ–°ã€‚
+google hosts 2014.12.23 ¸üĞÂ£¬±¾ÎÄÖ»Ìá¹©googleÏà¹Ø·şÎñµÄhosts£¬Ä¿Ç°ÓĞĞ§£¬Ê§Ğ§ºó»á¼°Ê±¸üĞÂ¡£
 
-æ³¨1ï¼šè¯·ä½¿ç”¨chromeæµè§ˆå™¨ï¼Œå¹¶åœ¨åœ°å€æ é‡Œè¾“å…¥ chrome://flags/ï¼Œç„¶åæŸ¥æ‰¾QUICï¼Œå¯ç”¨è¯¥åè®®ï¼ŒåŒæ—¶å»ºè®®å¯ç”¨SPDY/4ï¼Œèƒ½è®©è®¿é—®æ›´æµç•…ã€‚
+×¢1£ºÇëÊ¹ÓÃchromeä¯ÀÀÆ÷£¬²¢ÔÚµØÖ·À¸ÀïÊäÈë chrome://flags/£¬È»ºó²éÕÒQUIC£¬ÆôÓÃ¸ÃĞ­Òé£¬Í¬Ê±½¨ÒéÆôÓÃSPDY/4£¬ÄÜÈÃ·ÃÎÊ¸üÁ÷³©¡£
 
-æ³¨2ï¼šè¯·ä½¿ç”¨httpsçš„æ–¹å¼è®¿é—®ï¼Œæ¯”å¦‚ï¼šhttps://www.google.com
+×¢2£ºÇëÊ¹ÓÃhttpsµÄ·½Ê½·ÃÎÊ£¬±ÈÈç£ºhttps://www.google.com
 
-æ³¨3ï¼šé»˜è®¤å¯èƒ½ä¼šè·³è½¬åˆ°www.google.com.hkï¼Œå¦‚æœ.hkè®¿é—®å›°éš¾ï¼Œè¯·ä½¿ç”¨ï¼šhttps://www.google.com/ncr æ–¹å¼è®¿é—®ï¼Œç¦æ­¢å›½åˆ«è·³è½¬ã€‚
+×¢3£ºÄ¬ÈÏ¿ÉÄÜ»áÌø×ªµ½www.google.com.hk£¬Èç¹û.hk·ÃÎÊÀ§ÄÑ£¬ÇëÊ¹ÓÃ£ºhttps://www.google.com/ncr ·½Ê½·ÃÎÊ£¬½ûÖ¹¹ú±ğÌø×ª¡£
 
-====æ›´æ–°åˆ†ç•Œçº¿ï¼Œå¤åˆ¶ä¸‹é¢å†…å®¹åˆ°hostsæ–‡ä»¶å³å¯======
+====¸üĞÂ·Ö½çÏß£¬¸´ÖÆÏÂÃæÄÚÈİµ½hostsÎÄ¼ş¼´¿É======
 
 #google hosts 2014 by 360kb.com
 #base services
@@ -37,7 +37,7 @@ google hosts 2014.12.16 æ›´æ–°ï¼Œæœ¬æ–‡åªæä¾›googleç›¸å…³æœåŠ¡çš„hostsï¼Œç›®
 64.233.168.82    static.panoramio.com.storage.googleapis.com 
 #google apis
 #google static
-#Gstaticâ†“ 
+#Gstatic¡ı 
 64.233.168.82    www.gstatic.com 
 64.233.168.82    ssl.gstatic.com 
 64.233.168.82    csi.gstatic.com 
@@ -75,9 +75,9 @@ google hosts 2014.12.16 æ›´æ–°ï¼Œæœ¬æ–‡åªæä¾›googleç›¸å…³æœåŠ¡çš„hostsï¼Œç›®
 64.233.168.82    t5.gstatic.com 
 64.233.168.82    t6.gstatic.com 
 64.233.168.82    t7.gstatic.com 
-#Gstaticâ†‘ 
+#Gstatic¡ü 
 #google static
-#google usercontentâ†“ 
+#google usercontent¡ı 
 64.233.168.82    www.googleusercontent.com 
 64.233.168.82    googlehosted.l.googleusercontent.com 
 64.233.168.82    oauth.googleusercontent.com 
@@ -351,8 +351,8 @@ google hosts 2014.12.16 æ›´æ–°ï¼Œæœ¬æ–‡åªæä¾›googleç›¸å…³æœåŠ¡çš„hostsï¼Œç›®
 64.233.168.82    clients4.google.com
 64.233.168.82    clients5.google.com
 64.233.168.82    clients6.google.com
-#google usercontentâ†‘ 
-#google uploadâ†“ 
+#google usercontent¡ü 
+#google upload¡ı 
 64.233.168.82    uploads.clients.google.com 
 64.233.168.82    uploads.client.google.com 
 64.233.168.82    upload.clients.google.com 
